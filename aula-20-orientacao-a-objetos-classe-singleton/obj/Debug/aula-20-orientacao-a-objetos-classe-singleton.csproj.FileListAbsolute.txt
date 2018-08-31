@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-20-orientacao-a-objetos-classe-singleton\aula-20-orientacao-a-objetos-classe-singleton\obj\Debug\aula-20-orientacao-a-objetos-classe-singleton.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-20-orientacao-a-objetos-classe-singleton\aula-20-orientacao-a-objetos-classe-singleton\obj\Debug\aula-20-orientacao-a-objetos-classe-singleton.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-20-orientacao-a-objetos-classe-singleton\aula-20-orientacao-a-objetos-classe-singleton\bin\Debug\aula-20-orientacao-a-objetos-classe-singleton.exe.config
+C:\Users\nicol\source\repos\aula-20-orientacao-a-objetos-classe-singleton\aula-20-orientacao-a-objetos-classe-singleton\bin\Debug\aula-20-orientacao-a-objetos-classe-singleton.exe
+C:\Users\nicol\source\repos\aula-20-orientacao-a-objetos-classe-singleton\aula-20-orientacao-a-objetos-classe-singleton\bin\Debug\aula-20-orientacao-a-objetos-classe-singleton.pdb
+C:\Users\nicol\source\repos\aula-20-orientacao-a-objetos-classe-singleton\aula-20-orientacao-a-objetos-classe-singleton\obj\Debug\aula-20-orientacao-a-objetos-classe-singleton.exe
+C:\Users\nicol\source\repos\aula-20-orientacao-a-objetos-classe-singleton\aula-20-orientacao-a-objetos-classe-singleton\obj\Debug\aula-20-orientacao-a-objetos-classe-singleton.pdb
